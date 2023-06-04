@@ -1,0 +1,2768 @@
+[
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "The Seven Deadly Sins",
+                "website_url" : "",
+                "app_package" : "com.netmarble.nanagb"
+            },
+            {
+                "app_name" : "Eversoul",
+                "website_url" : "",
+                "app_package" : "com.kakaogames.eversoul"
+            },
+            {
+                "app_name" : "深空之眼",
+                "website_url" : "",
+                "app_package" : "com.YoungsGame.AetherGazer.gp"
+            },
+            {
+                "app_name" : "Bigo Live–прямой эфир, Лайвчат",
+                "website_url" : "",
+                "app_package" : "sg.bigo.live"
+            },
+            {
+                "app_name" : "소녀세계:소녀 PLAY 방치 EASY",
+                "website_url" : "",
+                "app_package" : "com.onemt.and.shkr"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.ss.android.ugc.aweme"
+            },
+            {
+                "app_name" : "式神傳說：陰陽對決",
+                "website_url" : "",
+                "app_package" : "com.gtyyqms.guge"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.apkpure.aegon"
+            },
+            {
+                "app_name" : "啾啾有妖氣-送1010抽",
+                "website_url" : "",
+                "app_package" : "com.vooplus.yyq"
+            },
+            {
+                "app_name" : "黃昏旅店 Re:newal",
+                "website_url" : "",
+                "app_package" : "tokyo.seec.tasogarehotel.remake.tc"
+            },
+            {
+                "app_name" : "Clash Royale",
+                "website_url" : "",
+                "app_package" : "com.supercell.clashroyale"
+            },
+            {
+                "app_name" : "Age of Frostfall",
+                "website_url" : "",
+                "app_package" : "com.aof.game"
+            },
+            {
+                "app_name" : "火柴人M",
+                "website_url" : "",
+                "app_package" : "com.funs.hcr"
+            },
+            {
+                "app_name" : "Пробная версия Minecraft",
+                "website_url" : "",
+                "app_package" : "com.mojang.minecrafttrialpe"
+            },
+            {
+                "app_name" : "Car Eats Car 5 - Арена битвы",
+                "website_url" : "",
+                "app_package" : "com.smokoko.careatscar5"
+            },
+            {
+                "app_name" : "서머너즈 워: 크로니클",
+                "website_url" : "",
+                "app_package" : "com.com2us.chronicles.android.google.kr.normal"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.ycgame.smsy.aligames"
+            },
+            {
+                "app_name" : "Clash of Clans",
+                "website_url" : "",
+                "app_package" : "com.supercell.clashofclans"
+            },
+            {
+                "app_name" : "에테르 오브 판타지",
+                "website_url" : "",
+                "app_package" : "com.ujoygp.ugame"
+            },
+            {
+                "app_name" : "Гильдия Героев: Фэнтези РПГ",
+                "website_url" : "",
+                "app_package" : "com.goplaytoday.guildofheroes"
+            },
+            {
+                "app_name" : "偶像夢幻祭2",
+                "website_url" : "",
+                "app_package" : "com.pomelo.es2.tw.gp"
+            },
+            {
+                "app_name" : "LUNA：永恆月之國",
+                "website_url" : "",
+                "app_package" : "com.lunamobiletw.novastar"
+            },
+            {
+                "app_name" : "Saint Seiya: Legend of Justice",
+                "website_url" : "",
+                "app_package" : "com.wanda.saintseiya.gp.eu"
+            },
+            {
+                "app_name" : "YouTube",
+                "website_url" : "",
+                "app_package" : "com.google.android.youtube"
+            },
+            {
+                "app_name" : "Майнкрафт",
+                "website_url" : "",
+                "app_package" : "com.mojang.minecraftpe"
+            },
+            {
+                "app_name" : "Avatar Generations",
+                "website_url" : "",
+                "app_package" : "com.squareenix.ares"
+            },
+            {
+                "app_name" : "Alchemy Stars",
+                "website_url" : "",
+                "app_package" : "com.tencent.baiyeint"
+            },
+            {
+                "app_name" : "Genshin Impact",
+                "website_url" : "",
+                "app_package" : "com.miHoYo.GenshinImpact"
+            },
+            {
+                "app_name" : "陰の実力者になりたくて！マスターオブガーデン",
+                "website_url" : "",
+                "app_package" : "com.aiming.shadow.garden.mog"
+            },
+            {
+                "app_name" : "Stagelands - tower defense TD",
+                "website_url" : "",
+                "app_package" : "mobi.blackbears.stagelands"
+            },
+            {
+                "app_name" : "Path of Ra",
+                "website_url" : "",
+                "app_package" : "com.oneirictales.pathofra"
+            },
+            {
+                "app_name" : "MementoMori: AFKRPG",
+                "website_url" : "",
+                "app_package" : "jp.boi.mementomori.android"
+            },
+            {
+                "app_name" : "Merge War - Army Draft Battler",
+                "website_url" : "",
+                "app_package" : "com.wildsky.wildarmydraft"
+            },
+            {
+                "app_name" : "誰ソ彼ホテル Re:newal",
+                "website_url" : "",
+                "app_package" : "tokyo.seec.tasogarehotel.remake"
+            },
+            {
+                "app_name" : "Dream Wars：ต้นกำเนิดเทพสวรรค์",
+                "website_url" : "",
+                "app_package" : "com.mmosea.android.dreamwars"
+            },
+            {
+                "app_name" : "NFL",
+                "website_url" : "",
+                "app_package" : "com.gotv.nflgamecenter.us.lite"
+            },
+            {
+                "app_name" : "좀비고등학교",
+                "website_url" : "",
+                "app_package" : "net.kernys.aooni"
+            },
+            {
+                "app_name" : "航海日記：全速前進",
+                "website_url" : "",
+                "app_package" : "tw.com.taomee.hhrj2"
+            },
+            {
+                "app_name" : "Mr.Kim - A half baked hero",
+                "website_url" : "",
+                "app_package" : "com.maf.moneyhero"
+            },
+            {
+                "app_name" : "Ensemble Stars Music",
+                "website_url" : "",
+                "app_package" : "com.happyelements.es2.en.gp"
+            },
+            {
+                "app_name" : "MARVEL Future Revolution",
+                "website_url" : "",
+                "app_package" : "com.netmarble.marvelfr"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.funtoygame.cater.android"
+            },
+            {
+                "app_name" : "SINoALICE ーシノアリスー",
+                "website_url" : "",
+                "app_package" : "jp.co.pokelabo.sinoalice"
+            },
+            {
+                "app_name" : "Cookie Run: Kingdom",
+                "website_url" : "",
+                "app_package" : "com.devsisters.ck"
+            },
+            {
+                "app_name" : "快打旋風：對決",
+                "website_url" : "",
+                "app_package" : "com.proximabeta.sfm2.taiwan"
+            },
+            {
+                "app_name" : "誓約少女",
+                "website_url" : "",
+                "app_package" : "com.babeltime.og.gp"
+            },
+            {
+                "app_name" : "라이징 오브 앤츠",
+                "website_url" : "",
+                "app_package" : "com.indie.yzjq.google.kr"
+            },
+            {
+                "app_name" : "魔導少年：力量覺醒",
+                "website_url" : "",
+                "app_package" : "com.gamepanda.ft"
+            },
+            {
+                "app_name" : "Yu-Gi-Oh! CROSS DUEL",
+                "website_url" : "",
+                "app_package" : "jp.konami.crossduel"
+            },
+            {
+                "app_name" : "Zombie Frontier : Sniper",
+                "website_url" : "",
+                "app_package" : "com.feelingtouch.sniperzombie"
+            },
+            {
+                "app_name" : "Brawl Stars",
+                "website_url" : "",
+                "app_package" : "com.supercell.brawlstars"
+            },
+            {
+                "app_name" : "Parking Master Multiplayer 2",
+                "website_url" : "",
+                "app_package" : "com.SpektraGames.ParkingMasterMultiplayer2"
+            },
+            {
+                "app_name" : "Auto Brawl Chess: Battle Royale",
+                "website_url" : "",
+                "app_package" : "com.panoramik.autochess"
+            },
+            {
+                "app_name" : "天堂M",
+                "website_url" : "",
+                "app_package" : "com.gamania.lineagem"
+            },
+            {
+                "app_name" : "Disney Mirrorverse",
+                "website_url" : "",
+                "app_package" : "com.kabam.bullseye"
+            },
+            {
+                "app_name" : "夢幻新誅仙",
+                "website_url" : "",
+                "app_package" : "tw.com.iwplay.mhxzx"
+            },
+            {
+                "app_name" : "The Eminence in Shadow RPG",
+                "website_url" : "",
+                "app_package" : "com.crunchyroll.eminenceinshadowrpg"
+            },
+            {
+                "app_name" : "PADDB",
+                "website_url" : "",
+                "app_package" : "com.bj.paddb"
+            },
+            {
+                "app_name" : "白夜極光",
+                "website_url" : "",
+                "app_package" : "com.gamamobi.baiyehmt"
+            },
+            {
+                "app_name" : "Real Cricket™ 22",
+                "website_url" : "",
+                "app_package" : "com.nautilus.realcricket"
+            },
+            {
+                "app_name" : "新劍俠世界3",
+                "website_url" : "",
+                "app_package" : "com.mover.twjxsj"
+            },
+            {
+                "app_name" : "컴투스프로야구V22",
+                "website_url" : "",
+                "app_package" : "com.com2us.futurecpb.android.google.global.normal"
+            },
+            {
+                "app_name" : "컴투스프로야구2023",
+                "website_url" : "",
+                "app_package" : "com.com2us.probaseball3d.normal.freefull.google.global.android.common"
+            },
+            {
+                "app_name" : "Beach Buggy Racing",
+                "website_url" : "",
+                "app_package" : "com.vectorunit.purple.googleplay"
+            },
+            {
+                "app_name" : "페어리테일:위대한여정",
+                "website_url" : "",
+                "app_package" : "com.gamepub.fl.g"
+            },
+            {
+                "app_name" : "LINE Let's Get Rich",
+                "website_url" : "",
+                "app_package" : "com.linecorp.LGGRTHN"
+            },
+            {
+                "app_name" : "대항해시대 Origin",
+                "website_url" : "",
+                "app_package" : "com.linegames.uwo"
+            },
+            {
+                "app_name" : "CSR Racing 2 - драг рейсинг",
+                "website_url" : "",
+                "app_package" : "com.naturalmotion.customstreetracer2"
+            },
+            {
+                "app_name" : "Terraria",
+                "website_url" : "",
+                "app_package" : "com.and.games505.TerrariaPaid"
+            },
+            {
+                "app_name" : "TikTok",
+                "website_url" : "",
+                "app_package" : "com.zhiliaoapp.musically"
+            },
+            {
+                "app_name" : "摩爾莊園",
+                "website_url" : "",
+                "app_package" : "com.rh.mezytw.an"
+            },
+            {
+                "app_name" : "세븐나이츠 레볼루션",
+                "website_url" : "",
+                "app_package" : "com.netmarble.skrv"
+            },
+            {
+                "app_name" : "ALICE Fiction - Puzzle RPG",
+                "website_url" : "",
+                "app_package" : "com.alicefiction"
+            },
+            {
+                "app_name" : "R2M : 重燃戰火",
+                "website_url" : "",
+                "app_package" : "com.webzen.r2mtw.google"
+            },
+            {
+                "app_name" : "以閃亮之名-與Selina一同開啟時尚生活",
+                "website_url" : "",
+                "app_package" : "com.szn.gat.yslzm.gp"
+            },
+            {
+                "app_name" : "MU Khởi Nguyên 3",
+                "website_url" : "",
+                "app_package" : "com.mu3.gp.vn"
+            },
+            {
+                "app_name" : "Life Makeover",
+                "website_url" : "",
+                "app_package" : "com.archosaur.sea.yslzm.gp"
+            },
+            {
+                "app_name" : "富甲江戶城 - 花樂町的物語",
+                "website_url" : "",
+                "app_package" : "com.yogame.jh"
+            },
+            {
+                "app_name" : "プロ野球スピリッツA",
+                "website_url" : "",
+                "app_package" : "jp.konami.prospia"
+            },
+            {
+                "app_name" : "넷마블 프로야구 2022",
+                "website_url" : "",
+                "app_package" : "com.netmarble.ma9rekr"
+            },
+            {
+                "app_name" : "Egg, Inc.",
+                "website_url" : "",
+                "app_package" : "com.auxbrain.egginc"
+            },
+            {
+                "app_name" : "Saint Seiya: Legend of Justice",
+                "website_url" : "",
+                "app_package" : "com.wanda.saintseiya.gp.am"
+            },
+            {
+                "app_name" : "Трансформеры: Земные Войны",
+                "website_url" : "",
+                "app_package" : "com.backflipstudios.transformersearthwars"
+            },
+            {
+                "app_name" : "KineMaster - Видеоредактор",
+                "website_url" : "",
+                "app_package" : "com.nexstreaming.app.kinemasterfree"
+            },
+            {
+                "app_name" : "GoreBox - Animosity",
+                "website_url" : "",
+                "app_package" : "com.F2Games.GBDE"
+            },
+            {
+                "app_name" : "The King of Fighters ARENA",
+                "website_url" : "",
+                "app_package" : "com.netmarble.kofarena"
+            },
+            {
+                "app_name" : "Wolf Game: The Wild Kingdom",
+                "website_url" : "",
+                "app_package" : "com.special.thewolfgame"
+            },
+            {
+                "app_name" : "超爆三國志-心如豪送千抽",
+                "website_url" : "",
+                "app_package" : "com.sanguosp.twgp"
+            },
+            {
+                "app_name" : "앙상블스타즈!!",
+                "website_url" : "",
+                "app_package" : "com.happyelements.es2.kr.gp"
+            },
+            {
+                "app_name" : "Arena of Valor",
+                "website_url" : "",
+                "app_package" : "com.ngame.allstar.eu"
+            },
+            {
+                "app_name" : "決戰！平安京",
+                "website_url" : "",
+                "app_package" : "com.netease.g78na.tw"
+            },
+            {
+                "app_name" : "Tank Company",
+                "website_url" : "",
+                "app_package" : "com.netease.tankcompany"
+            },
+            {
+                "app_name" : "妄想山海：乾坤",
+                "website_url" : "",
+                "app_package" : "com.gamamobi.chimeraland"
+            },
+            {
+                "app_name" : "eFootball™ 2023",
+                "website_url" : "",
+                "app_package" : "jp.konami.pesam"
+            },
+            {
+                "app_name" : "MORTAL KOMBAT: Файтинг",
+                "website_url" : "",
+                "app_package" : "com.wb.goog.mkx"
+            },
+            {
+                "app_name" : "江湖悠悠",
+                "website_url" : "",
+                "app_package" : "com.wuxiafield.novastar"
+            },
+            {
+                "app_name" : "勝利女神：妮姬",
+                "website_url" : "",
+                "app_package" : "com.gamamobi.nikke"
+            },
+            {
+                "app_name" : "GODDESS OF VICTORY: NIKKE",
+                "website_url" : "",
+                "app_package" : "com.proximabeta.nikke"
+            },
+            {
+                "app_name" : "Chimeraland ：Jurassic Era",
+                "website_url" : "",
+                "app_package" : "com.proximabeta.fancyworld"
+            },
+            {
+                "app_name" : "Captain Tsubasa: Dream Team",
+                "website_url" : "",
+                "app_package" : "com.klab.captain283.global"
+            },
+            {
+                "app_name" : "ChimeraLand",
+                "website_url" : "",
+                "app_package" : "com.levelinfinite.fancyworld"
+            },
+            {
+                "app_name" : "TFT: Teamfight Tactics",
+                "website_url" : "",
+                "app_package" : "com.riotgames.league.teamfighttactics"
+            },
+            {
+                "app_name" : "放肆武林",
+                "website_url" : "",
+                "app_package" : "com.wlgt.bd"
+            },
+            {
+                "app_name" : "Kwai-Смотреть интересные видео",
+                "website_url" : "",
+                "app_package" : "com.kwai.video"
+            },
+            {
+                "app_name" : "StoneAge World",
+                "website_url" : "",
+                "app_package" : "com.netmarble.stonemmogb"
+            },
+            {
+                "app_name" : "ブラックロックシューター FRAGMENT",
+                "website_url" : "",
+                "app_package" : "jp.goodsmile.brsfragment"
+            },
+            {
+                "app_name" : "Telegram",
+                "website_url" : "",
+                "app_package" : "org.telegram.messenger"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.dgames.g65002010.google"
+            },
+            {
+                "app_name" : "オクトパストラベラー 大陸の覇者",
+                "website_url" : "",
+                "app_package" : "com.square_enix.android_googleplay.octopathj"
+            },
+            {
+                "app_name" : "Dice Dreams™️",
+                "website_url" : "",
+                "app_package" : "com.superplaystudios.dicedreams"
+            },
+            {
+                "app_name" : "Pokémon UNITE",
+                "website_url" : "",
+                "app_package" : "jp.pokemon.pokemonunite"
+            },
+            {
+                "app_name" : "Argent Twilight",
+                "website_url" : "",
+                "app_package" : "com.nexon.sf2"
+            },
+            {
+                "app_name" : "Пираты Карибского моря",
+                "website_url" : "",
+                "app_package" : "com.joycity.potc"
+            },
+            {
+                "app_name" : "Alchemy Stars: Aurora Blast",
+                "website_url" : "",
+                "app_package" : "com.proximabeta.baiyeus"
+            },
+            {
+                "app_name" : "MR.GIANCARLO【ラッキードッグ１】",
+                "website_url" : "",
+                "app_package" : "jp.co.woga.LuckyHappyWorld"
+            },
+            {
+                "app_name" : "Vikingard",
+                "website_url" : "",
+                "app_package" : "com.netease.vikingard"
+            },
+            {
+                "app_name" : "키움증권 영웅문S#",
+                "website_url" : "",
+                "app_package" : "com.kiwoom.heromts"
+            },
+            {
+                "app_name" : "機動戦士ガンダム 鉄血のオルフェンズG",
+                "website_url" : "",
+                "app_package" : "com.bandainamcoent.gtekketsug"
+            },
+            {
+                "app_name" : "二之國：交錯世界",
+                "website_url" : "",
+                "app_package" : "com.netmarble.ennt"
+            },
+            {
+                "app_name" : "Stickman AFK: LiênMinh BóngĐêm",
+                "website_url" : "",
+                "app_package" : "vn.vplay.stickman.t006a"
+            },
+            {
+                "app_name" : "Shadow Fight 4: Arena",
+                "website_url" : "",
+                "app_package" : "com.nekki.shadowfightarena"
+            },
+            {
+                "app_name" : "제2의 나라: CROSS WORLDS",
+                "website_url" : "",
+                "app_package" : "com.netmarble.enn"
+            },
+            {
+                "app_name" : "Oath of peak: Open world",
+                "website_url" : "",
+                "app_package" : "com.azura.oopwwandroid"
+            },
+            {
+                "app_name" : "CPBL職業棒球2021",
+                "website_url" : "",
+                "app_package" : "com.gravity.probb.aos"
+            },
+            {
+                "app_name" : "삼국지 포켓판: 카툰수집형RPG",
+                "website_url" : "",
+                "app_package" : "com.sgzkdb.gp.gl"
+            },
+            {
+                "app_name" : "Archero",
+                "website_url" : "",
+                "app_package" : "com.habby.archero"
+            },
+            {
+                "app_name" : "War Robots. Tactical action",
+                "website_url" : "",
+                "app_package" : "com.pixonic.wwr"
+            },
+            {
+                "app_name" : "구미호 전설",
+                "website_url" : "",
+                "app_package" : "com.lyj.rpg.kr.mobile"
+            },
+            {
+                "app_name" : "盛世芳華",
+                "website_url" : "",
+                "app_package" : "com.hygame.ssfh.tw.gp"
+            },
+            {
+                "app_name" : "소울 커넥터 : 타워디펜스RPG",
+                "website_url" : "",
+                "app_package" : "com.gamepub.na.g"
+            },
+            {
+                "app_name" : "로스트 이러:무한 파밍MMORPG",
+                "website_url" : "",
+                "app_package" : "com.godsg.gpkr"
+            },
+            {
+                "app_name" : "Disney Twisted-Wonderland",
+                "website_url" : "",
+                "app_package" : "com.aniplex.twst.en"
+            },
+            {
+                "app_name" : "Project: BloodStrike",
+                "website_url" : "",
+                "app_package" : "com.netease.newspike"
+            },
+            {
+                "app_name" : "少女ウォーズ: 幻想天下統一戦",
+                "website_url" : "",
+                "app_package" : "com.y2sgames.girlwarsjp"
+            },
+            {
+                "app_name" : "トワツガイ",
+                "website_url" : "",
+                "app_package" : "com.square_enix.android_googleplay.towatsugaijp"
+            },
+            {
+                "app_name" : "Royal Match",
+                "website_url" : "",
+                "app_package" : "com.dreamgames.royalmatch"
+            },
+            {
+                "app_name" : "BrownDust2 - Adventure RPG",
+                "website_url" : "",
+                "app_package" : "com.neowizgames.game.browndust2"
+            },
+            {
+                "app_name" : "Akiba Origin: 12 จอมคาถา",
+                "website_url" : "",
+                "app_package" : "com.eyougame.jzy.th"
+            },
+            {
+                "app_name" : "Mi Home",
+                "website_url" : "",
+                "app_package" : "com.xiaomi.smarthome"
+            },
+            {
+                "app_name" : "エンゲージ・キル（Engage Kill）",
+                "website_url" : "",
+                "app_package" : "com.square_enix.android_googleplay.EngageKill_j"
+            },
+            {
+                "app_name" : "BLUE REFLECTION SUN/燦",
+                "website_url" : "",
+                "app_package" : "com.dmm.games.bluereflectionsun"
+            },
+            {
+                "app_name" : "모아삼국",
+                "website_url" : "",
+                "app_package" : "com.ulugame.hxmjcbt.google"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.gbits.funnyfighter.android.overseas"
+            },
+            {
+                "app_name" : "Immortal Dynasty",
+                "website_url" : "",
+                "app_package" : "com.gp.immortaldynasty"
+            },
+            {
+                "app_name" : "Boom Beach",
+                "website_url" : "",
+                "app_package" : "com.supercell.boombeach"
+            },
+            {
+                "app_name" : "뮤오리진3",
+                "website_url" : "",
+                "app_package" : "com.webzen.muorigin3.google"
+            },
+            {
+                "app_name" : "Uncharted Waters Origin",
+                "website_url" : "",
+                "app_package" : "com.linegames.uwogl"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.ld.trssjhw"
+            },
+            {
+                "app_name" : "Free Fire",
+                "website_url" : "",
+                "app_package" : "com.dts.freefireth"
+            },
+            {
+                "app_name" : "LifeAfter",
+                "website_url" : "",
+                "app_package" : "com.netease.mrzhna"
+            },
+            {
+                "app_name" : "Hay Day",
+                "website_url" : "",
+                "app_package" : "com.supercell.hayday"
+            },
+            {
+                "app_name" : "道友販劍嗎 - 無限煉器修仙手遊",
+                "website_url" : "",
+                "app_package" : "com.jzsj.gp"
+            },
+            {
+                "app_name" : "深淵咒縛",
+                "website_url" : "",
+                "app_package" : "com.mojian.oversea"
+            },
+            {
+                "app_name" : "Snapchat",
+                "website_url" : "",
+                "app_package" : "com.snapchat.android"
+            },
+            {
+                "app_name" : "Yêu Linh Tập Kết",
+                "website_url" : "",
+                "app_package" : "com.game.wyhjvn.an"
+            },
+            {
+                "app_name" : "SHAMAN KING ふんばりクロニクル（ふんクロ）",
+                "website_url" : "",
+                "app_package" : "jp.co.studioz.shamanking"
+            },
+            {
+                "app_name" : "Clash of Clans",
+                "website_url" : "",
+                "app_package" : "com.supercell.clashofclans.amazon"
+            },
+            {
+                "app_name" : "Rise of Empires: Ice and Fire",
+                "website_url" : "",
+                "app_package" : "com.im30.ROE.gp"
+            },
+            {
+                "app_name" : "時空少女の羈絆 - 美少女戰鬥養成RPG",
+                "website_url" : "",
+                "app_package" : "com.aowu.sksndjb"
+            },
+            {
+                "app_name" : "FIFA MOBILE",
+                "website_url" : "",
+                "app_package" : "jp.co.nexon.fmja"
+            },
+            {
+                "app_name" : "Seal M",
+                "website_url" : "",
+                "app_package" : "com.playwith.sealm.sea.googl"
+            },
+            {
+                "app_name" : "Lost Words: Beyond the Page",
+                "website_url" : "",
+                "app_package" : "com.pid.lostwords"
+            },
+            {
+                "app_name" : "Honkai: Star Rail",
+                "website_url" : "",
+                "app_package" : "com.HoYoverse.hkrpgoversea"
+            },
+            {
+                "app_name" : "Summoners' War: Chronicles",
+                "website_url" : "",
+                "app_package" : "com.com2us.chronicles.android.google.us.normal"
+            },
+            {
+                "app_name" : "Miko Era: Twelve Myths",
+                "website_url" : "",
+                "app_package" : "com.eyougame.mikoera"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "nxt_pie64"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "TikTok Now",
+                "website_url" : "",
+                "app_package" : "com.ss.android.ugc.now"
+            },
+            {
+                "app_name" : "FRAG Pro Shooter",
+                "website_url" : "",
+                "app_package" : "com.ohbibi.fps"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "《英雄聯盟：激鬥峽谷》",
+                "website_url" : "",
+                "app_package" : "com.riotgames.league.wildrifttw"
+            },
+            {
+                "app_name" : "指劍江湖",
+                "website_url" : "",
+                "app_package" : "com.gameflier.zhj.google2"
+            },
+            {
+                "app_name" : "Martial Sword:ตำนานรักนิรันดร์",
+                "website_url" : "",
+                "app_package" : "com.martial.sword.immortal.wuxia.love"
+            },
+            {
+                "app_name" : "MY HERO ULTRA IMPACT",
+                "website_url" : "",
+                "app_package" : "com.bandainamcoent.hiroacawwus"
+            },
+            {
+                "app_name" : "Brawlhalla",
+                "website_url" : "",
+                "app_package" : "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp"
+            },
+            {
+                "app_name" : "Dead by Daylight Mobile",
+                "website_url" : "",
+                "app_package" : "com.bhvr.deadbydaylight"
+            },
+            {
+                "app_name" : "슈퍼스트링 with NAVER WEBTOON",
+                "website_url" : "",
+                "app_package" : "com.fg.ssaos"
+            },
+            {
+                "app_name" : "Merge Stories - Merge Games",
+                "website_url" : "",
+                "app_package" : "com.jellybtn.mergestories"
+            },
+            {
+                "app_name" : "Soccer Manager 2022 -",
+                "website_url" : "",
+                "app_package" : "com.soccermanager.soccermanager2022"
+            },
+            {
+                "app_name" : "彈射世界",
+                "website_url" : "",
+                "app_package" : "air.com.gamania.worldflipper"
+            },
+            {
+                "app_name" : "アイドルマスター SideM GROWING STARS",
+                "website_url" : "",
+                "app_package" : "com.bandainamcoent.SideM_GROWINGSTARS"
+            },
+            {
+                "app_name" : "天涯明月刀 M - Garena",
+                "website_url" : "",
+                "app_package" : "com.garena.game.mbmtw"
+            },
+            {
+                "app_name" : "KartRider Rush+",
+                "website_url" : "",
+                "app_package" : "com.nexon.kart"
+            },
+            {
+                "app_name" : "Fashion Dream",
+                "website_url" : "",
+                "app_package" : "com.tencent.dressup"
+            },
+            {
+                "app_name" : "哈利波特：魔法覺醒",
+                "website_url" : "",
+                "app_package" : "com.netease.harrypotter.tw"
+            },
+            {
+                "app_name" : "金色琴弦 星光交響樂團",
+                "website_url" : "",
+                "app_package" : "com.wayi.so"
+            },
+            {
+                "app_name" : "신의 탑M: 위대한 여정",
+                "website_url" : "",
+                "app_package" : "com.ngelgames.tog"
+            },
+            {
+                "app_name" : "ラグナドール　妖しき皇帝と終焉の夜叉姫",
+                "website_url" : "",
+                "app_package" : "game.grams.kai"
+            },
+            {
+                "app_name" : "グランサガ (Gran Saga)",
+                "website_url" : "",
+                "app_package" : "com.npixel.GranSagaJP"
+            },
+            {
+                "app_name" : "Date A Live: Spirit Pledge HD",
+                "website_url" : "",
+                "app_package" : "com.global.datealive.gp"
+            },
+            {
+                "app_name" : "奇蹟MU：正宗續作",
+                "website_url" : "",
+                "app_package" : "com.ourpalm.mu3.gp.tw"
+            },
+            {
+                "app_name" : "Three Kingdoms: Hero Wars",
+                "website_url" : "",
+                "app_package" : "threekingdoms.herowars.zbgame.gp"
+            },
+            {
+                "app_name" : "Lord of Heroes",
+                "website_url" : "",
+                "app_package" : "com.clovergames.lordofheroes"
+            },
+            {
+                "app_name" : "Everskies: Virtual Dress up",
+                "website_url" : "",
+                "app_package" : "com.everskies.app"
+            },
+            {
+                "app_name" : "Top Drives — карточные гонки",
+                "website_url" : "",
+                "app_package" : "com.hutchgames.cccg"
+            },
+            {
+                "app_name" : "天龍八部2-港澳版",
+                "website_url" : "",
+                "app_package" : "tw.com.iwplay.tlbbhk"
+            },
+            {
+                "app_name" : "DK MOBILE : THE ORIGIN",
+                "website_url" : "",
+                "app_package" : "com.ntrance.dkmobile_2"
+            },
+            {
+                "app_name" : "精靈樂章-這樣的夥伴沒問題嗎",
+                "website_url" : "",
+                "app_package" : "com.xlegend.grandfantasia.tw"
+            },
+            {
+                "app_name" : "타워 오브 판타지",
+                "website_url" : "",
+                "app_package" : "com.perfect.tof.gp"
+            },
+            {
+                "app_name" : "EA SPORTS MLB TAP BASEBALL 23",
+                "website_url" : "",
+                "app_package" : "com.ea.tsb"
+            },
+            {
+                "app_name" : "Three Kingdoms: Art of War",
+                "website_url" : "",
+                "app_package" : "com.zbjoy.game.rxsgz"
+            },
+            {
+                "app_name" : "천상비M",
+                "website_url" : "",
+                "app_package" : "com.sesisoft.and1003bm"
+            },
+            {
+                "app_name" : "Wargard: Легендарные Битвы",
+                "website_url" : "",
+                "app_package" : "com.bulberry.wargard"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.abyssalsword.android"
+            },
+            {
+                "app_name" : "Dawn of Zombies: Survival RPG",
+                "website_url" : "",
+                "app_package" : "com.survival.last"
+            },
+            {
+                "app_name" : "Клондайк",
+                "website_url" : "",
+                "app_package" : "com.vizorapps.klondike"
+            },
+            {
+                "app_name" : "The Walking Hero (Auto Battle ",
+                "website_url" : "",
+                "app_package" : "com.impossibleapps.walkinghero"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "nxt_n64"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Tera Classic SEA",
+                "website_url" : "",
+                "app_package" : "com.playpark.tcmaos"
+            },
+            {
+                "app_name" : "Merge Kuya Island",
+                "website_url" : "",
+                "app_package" : "com.netmarble.mkglobal"
+            },
+            {
+                "app_name" : "Стужа и пламя: King of Avalon",
+                "website_url" : "",
+                "app_package" : "com.funplus.kingofavalon"
+            },
+            {
+                "app_name" : "MultiCraft — Build and Mine!",
+                "website_url" : "",
+                "app_package" : "com.multicraft.game"
+            },
+            {
+                "app_name" : "Etherion Online RPG",
+                "website_url" : "",
+                "app_package" : "com.iappsbeats.etherion"
+            },
+            {
+                "app_name" : "퍼즐앤드래곤",
+                "website_url" : "",
+                "app_package" : "jp.gungho.padKO"
+            },
+            {
+                "app_name" : "Война и Мир: MMO Стратегия",
+                "website_url" : "",
+                "app_package" : "com.erepubliklabs.warandpeace"
+            },
+            {
+                "app_name" : "파이널 아레나",
+                "website_url" : "",
+                "app_package" : "com.newleapsoft.fa.g"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.duoku.kiseki.google"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.miHoYo.bh3.mi"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.supercell.boombeach.uc"
+            },
+            {
+                "app_name" : "我和殭屍有個約會M-神劇再現驅魔無界MMORPG",
+                "website_url" : "",
+                "app_package" : "com.gameone.vdate"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.gecho.xyrh"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.wan.wartuneh5"
+            },
+            {
+                "app_name" : "勇者「世界の半分くれるって言ったのに」",
+                "website_url" : "",
+                "app_package" : "com.cyberxgames.herotower2"
+            },
+            {
+                "app_name" : "Monster Legends: Idle RPG",
+                "website_url" : "",
+                "app_package" : "com.phoenix.android.ml_global"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "nxt_n32"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "戦国布武：我が天下戦国編",
+                "website_url" : "",
+                "app_package" : "com.jdgames.p20n.googleplay"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat32"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "WWE Champions",
+                "website_url" : "",
+                "app_package" : "com.scopely.whiplash"
+            },
+            {
+                "app_name" : "Dungeon Brawlers",
+                "website_url" : "",
+                "app_package" : "com.Supersky.DungeonMasters"
+            },
+            {
+                "app_name" : "少女戰爭",
+                "website_url" : "",
+                "app_package" : "com.y2sgames.girlwarstw"
+            },
+            {
+                "app_name" : "ตำนานลัทธิมาร",
+                "website_url" : "",
+                "app_package" : "com.modaoxx.com"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.netease.g67"
+            },
+            {
+                "app_name" : "アース：リバイバル",
+                "website_url" : "",
+                "app_package" : "com.japan.arrival"
+            },
+            {
+                "app_name" : "Diablo Immortal",
+                "website_url" : "",
+                "app_package" : "com.blizzard.diablo.immortal"
+            },
+            {
+                "app_name" : "MONSTER UNIVERSE",
+                "website_url" : "",
+                "app_package" : "jp.colopl.mkc"
+            },
+            {
+                "app_name" : "Fake Future",
+                "website_url" : "",
+                "app_package" : "com.qmind.pixel.en"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.happyelements.AndroidAnimal"
+            },
+            {
+                "app_name" : "AVARS: AVABEL Ranking Season",
+                "website_url" : "",
+                "app_package" : "com.asobimo.avars"
+            },
+            {
+                "app_name" : "THIÊN HẠ VÔ SONG",
+                "website_url" : "",
+                "app_package" : "com.gamexx.qyj.vn"
+            },
+            {
+                "app_name" : "World of Rune - Fantasy MMORPG",
+                "website_url" : "",
+                "app_package" : "com.n2gp.wormobile"
+            },
+            {
+                "app_name" : "Wild Castle TD - Grow Empire",
+                "website_url" : "",
+                "app_package" : "com.wildsky.wildcastle"
+            },
+            {
+                "app_name" : "龍與世界的盡頭",
+                "website_url" : "",
+                "app_package" : "com.zuduifangzhi.tw"
+            },
+            {
+                "app_name" : "明日之後",
+                "website_url" : "",
+                "app_package" : "com.netease.mrzhtw"
+            },
+            {
+                "app_name" : "Moon&Sword2",
+                "website_url" : "",
+                "app_package" : "com.aaa.qyj2.tg"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.miHoYo.hkrpg"
+            },
+            {
+                "app_name" : "Rumble Heroes : Adventure RPG",
+                "website_url" : "",
+                "app_package" : "com.playhardlab.heroes"
+            },
+            {
+                "app_name" : "Kingdom of Invaders - MMO War",
+                "website_url" : "",
+                "app_package" : "com.BEMS.KOI"
+            },
+            {
+                "app_name" : "Online RPG AVABEL [Action]",
+                "website_url" : "",
+                "app_package" : "com.asobimo.avabel_gp_b3"
+            },
+            {
+                "app_name" : "スピードラッシュランナーズ",
+                "website_url" : "",
+                "app_package" : "com.xflag.speedrush"
+            },
+            {
+                "app_name" : "LINE：モンスターファーム",
+                "website_url" : "",
+                "app_package" : "com.linecorp.LGMF"
+            },
+            {
+                "app_name" : "炎炎ノ消防隊 炎舞ノ章",
+                "website_url" : "",
+                "app_package" : "com.mobcast.games.yy"
+            },
+            {
+                "app_name" : "Tower Brawl",
+                "website_url" : "",
+                "app_package" : "com.gtarcade.tfjl"
+            },
+            {
+                "app_name" : "Tower Brawl",
+                "website_url" : "",
+                "app_package" : "com.domozoo.towerbrawl"
+            },
+            {
+                "app_name" : "Đấu trường Onmyoji",
+                "website_url" : "",
+                "app_package" : "com.netease.g78na.vn"
+            },
+            {
+                "app_name" : "暮色雙城-意涵雙城主代言",
+                "website_url" : "",
+                "app_package" : "com.taigusec.gptw"
+            },
+            {
+                "app_name" : "Final Fantasy XV: War for Eos",
+                "website_url" : "",
+                "app_package" : "com.machinezone.ffane"
+            },
+            {
+                "app_name" : "最強武士道",
+                "website_url" : "",
+                "app_package" : "com.rastargames.topbushitw"
+            },
+            {
+                "app_name" : "The Walking Dead No Man's Land",
+                "website_url" : "",
+                "app_package" : "com.nextgames.android.twd"
+            },
+            {
+                "app_name" : "Mighty Quest Rogue Palace",
+                "website_url" : "",
+                "app_package" : "com.netflix.NGP.MightyQuestRoguePalace"
+            },
+            {
+                "app_name" : "ミステリーレコード",
+                "website_url" : "",
+                "app_package" : "com.mixi.mysteryrecord"
+            },
+            {
+                "app_name" : "Sky: Дети Света",
+                "website_url" : "",
+                "app_package" : "com.tgc.sky.android"
+            },
+            {
+                "app_name" : "最強武士道",
+                "website_url" : "",
+                "app_package" : "com.rastargames.topbushihk"
+            },
+            {
+                "app_name" : "NEKO GOLF -Anime GOLF-",
+                "website_url" : "",
+                "app_package" : "jp.colopl.wcgolf"
+            },
+            {
+                "app_name" : "Puzzle & Dragons",
+                "website_url" : "",
+                "app_package" : "jp.gungho.padEN"
+            },
+            {
+                "app_name" : "Stickman Playground",
+                "website_url" : "",
+                "app_package" : "com.ezt.stickman.playground"
+            },
+            {
+                "app_name" : "나이트  크로우",
+                "website_url" : "",
+                "app_package" : "com.wemade.nightcrows"
+            },
+            {
+                "app_name" : "Magic World : โลกลัทธิมาร",
+                "website_url" : "",
+                "app_package" : "com.untamedxxhero.com"
+            },
+            {
+                "app_name" : "戦国最強伝説～天地の覚醒~",
+                "website_url" : "",
+                "app_package" : "com.rastargames.topbushijp"
+            },
+            {
+                "app_name" : "Peridot",
+                "website_url" : "",
+                "app_package" : "com.nianticlabs.peridot"
+            },
+            {
+                "app_name" : "Summoners War: Chronicles BETA",
+                "website_url" : "",
+                "app_package" : "com.com2us.chroniclesobt.android.google.global.normal"
+            },
+            {
+                "app_name" : "겟앰프드 파이터즈",
+                "website_url" : "",
+                "app_package" : "com.kmbox.gaf"
+            },
+            {
+                "app_name" : "GensoKishi Online -META WORLD-",
+                "website_url" : "",
+                "app_package" : "ai.metap.gensokishi"
+            },
+            {
+                "app_name" : "404 GAME RE:SET -エラーゲームリセット-",
+                "website_url" : "",
+                "app_package" : "com.sega.ErrorGameReset"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.asia.arrival"
+            },
+            {
+                "app_name" : "Elasto Mania Remastered",
+                "website_url" : "",
+                "app_package" : "com.elastomania.elma"
+            },
+            {
+                "app_name" : "Dream League Soccer 2023",
+                "website_url" : "",
+                "app_package" : "com.firsttouchgames.dls7"
+            },
+            {
+                "app_name" : "プリンセスコネクト！Re:Dive",
+                "website_url" : "",
+                "app_package" : "jp.co.cygames.princessconnectredive"
+            },
+            {
+                "app_name" : "The Oregon Trail: Boom Town",
+                "website_url" : "",
+                "app_package" : "com.tiltingpoint.oregon.trail.settlers"
+            },
+            {
+                "app_name" : "Perfect Grind",
+                "website_url" : "",
+                "app_package" : "com.noodlecake.perfectgrind"
+            },
+            {
+                "app_name" : "Journey of Greed",
+                "website_url" : "",
+                "app_package" : "com.youtufun.tcg.cardgame.tapio"
+            },
+            {
+                "app_name" : "Planet Inc: Idle Miner Tycoon",
+                "website_url" : "",
+                "app_package" : "planet.inc.idle.galaxy.genesis.miner.tycoon"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "MU ORIGIN 3 ASIA",
+                "website_url" : "",
+                "app_package" : "com.fingerfun.mu3.gp.sea"
+            },
+            {
+                "app_name" : "MU ORIGIN 3",
+                "website_url" : "",
+                "app_package" : "com.fingerfun.mu3.gp.us"
+            },
+            {
+                "app_name" : "Tower of Fantasy",
+                "website_url" : "",
+                "app_package" : "com.levelinfinite.hotta.gp"
+            },
+            {
+                "app_name" : "Monster Survivor io:Action RPG",
+                "website_url" : "",
+                "app_package" : "net.mintry.hsio"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.levelinfinite.supernba2021"
+            },
+            {
+                "app_name" : "던전앤게이트",
+                "website_url" : "",
+                "app_package" : "com.rpggate.dng"
+            },
+            {
+                "app_name" : "天龍八部2",
+                "website_url" : "",
+                "app_package" : "tw.com.iwplay.tlbb"
+            },
+            {
+                "app_name" : "陰陽師：百聞牌",
+                "website_url" : "",
+                "app_package" : "com.netease.yysbwp.tw"
+            },
+            {
+                "app_name" : "Hư Linh Tam Quốc",
+                "website_url" : "",
+                "app_package" : "com.shg.sg364"
+            },
+            {
+                "app_name" : "新火鳳燎原-亂世英雄",
+                "website_url" : "",
+                "app_package" : "com.gameone.rtp3d"
+            },
+            {
+                "app_name" : "League of Legends: Wild Rift",
+                "website_url" : "",
+                "app_package" : "com.riotgames.league.wildrift"
+            },
+            {
+                "app_name" : "Hive Social",
+                "website_url" : "",
+                "app_package" : "org.hiveinc.TheHive.android"
+            },
+            {
+                "app_name" : "鋼之鍊金術師 M",
+                "website_url" : "",
+                "app_package" : "com.garena.game.famtw"
+            },
+            {
+                "app_name" : "東京リベンジャーズ ぱずりべ！全国制覇への道",
+                "website_url" : "",
+                "app_package" : "jp.co.goodroid.revengers"
+            },
+            {
+                "app_name" : "Tower of God: Great Journey",
+                "website_url" : "",
+                "app_package" : "global.ngelgames.tog"
+            },
+            {
+                "app_name" : "歧路旅人：大陸的霸者",
+                "website_url" : "",
+                "app_package" : "com.boltrend.octopath.tc"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.softnyx.gbt"
+            },
+            {
+                "app_name" : "MIR M",
+                "website_url" : "",
+                "app_package" : "com.wemade.mirmglobal"
+            },
+            {
+                "app_name" : "ヘブンバーンズレッド",
+                "website_url" : "",
+                "app_package" : "com.heavenburnsred"
+            },
+            {
+                "app_name" : "突擊莉莉Last Bullet",
+                "website_url" : "",
+                "app_package" : "com.a.one.al"
+            },
+            {
+                "app_name" : "Torchlight: Infinite",
+                "website_url" : "",
+                "app_package" : "com.xd.TLglobal"
+            },
+            {
+                "app_name" : "권력과왕좌",
+                "website_url" : "",
+                "app_package" : "com.gosugames.pah.google"
+            },
+            {
+                "app_name" : "Airship Knights : Idle RPG",
+                "website_url" : "",
+                "app_package" : "com.superplanet.airship"
+            },
+            {
+                "app_name" : "Gran Saga：格蘭騎士團",
+                "website_url" : "",
+                "app_package" : "com.sialiagames.gransaga.gp.tw"
+            },
+            {
+                "app_name" : "Battle of Reverence",
+                "website_url" : "",
+                "app_package" : "com.Aaryan.Reverence"
+            },
+            {
+                "app_name" : "Angry Birds 2",
+                "website_url" : "",
+                "app_package" : "com.rovio.baba"
+            },
+            {
+                "app_name" : "幻塔",
+                "website_url" : "",
+                "app_package" : "tw.com.iwplay.ht"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.bluestacks.web3demo"
+            },
+            {
+                "app_name" : "건담 슈프림 배틀",
+                "website_url" : "",
+                "app_package" : "com.bandainamcoent.gundambattle"
+            },
+            {
+                "app_name" : "鋼彈 爭鋒對決",
+                "website_url" : "",
+                "app_package" : "com.bandainamcoent.gundambattle.tw"
+            },
+            {
+                "app_name" : "Jurassic World К жизни",
+                "website_url" : "",
+                "app_package" : "com.ludia.jw2"
+            },
+            {
+                "app_name" : "Epic Seven",
+                "website_url" : "",
+                "app_package" : "com.stove.epic7.google"
+            },
+            {
+                "app_name" : "Left to Survive: выживание",
+                "website_url" : "",
+                "app_package" : "com.glu.zbs"
+            },
+            {
+                "app_name" : "Blue Archive",
+                "website_url" : "",
+                "app_package" : "com.nexon.bluearchive"
+            },
+            {
+                "app_name" : "Guardian Tales",
+                "website_url" : "",
+                "app_package" : "com.kakaogames.gdts"
+            },
+            {
+                "app_name" : "MapleStory M - Fantasy MMORPG",
+                "website_url" : "",
+                "app_package" : "com.nexon.maplem.global"
+            },
+            {
+                "app_name" : "KonoSuba: Fantastic Days",
+                "website_url" : "",
+                "app_package" : "com.nexon.konosuba"
+            },
+            {
+                "app_name" : "Revived Witch",
+                "website_url" : "",
+                "app_package" : "com.YoStarEN.RevivedWitch"
+            },
+            {
+                "app_name" : "NieR Re[in]carnation",
+                "website_url" : "",
+                "app_package" : "com.square_enix.android_googleplay.nierspww"
+            },
+            {
+                "app_name" : "Ni no Kuni: Cross Worlds",
+                "website_url" : "",
+                "app_package" : "com.netmarble.enngb"
+            },
+            {
+                "app_name" : "煙雨江湖",
+                "website_url" : "",
+                "app_package" : "com.wuxia.novastar"
+            },
+            {
+                "app_name" : "Soccer Manager 2023",
+                "website_url" : "",
+                "app_package" : "com.soccermanager.soccermanager2023"
+            },
+            {
+                "app_name" : "Суккуб Холостой",
+                "website_url" : "",
+                "app_package" : "com.mobirix.mbsi"
+            },
+            {
+                "app_name" : "新  小森生活",
+                "website_url" : "",
+                "app_package" : "com.hotcool.forest1"
+            },
+            {
+                "app_name" : "HATSUNE MIKU: COLORFUL STAGE!",
+                "website_url" : "",
+                "app_package" : "com.sega.ColorfulStage.en"
+            },
+            {
+                "app_name" : "NieR Re[in]carnation",
+                "website_url" : "",
+                "app_package" : "com.square_enix.android_googleplay.nierspjp"
+            },
+            {
+                "app_name" : "ドラゴンとガールズ交響曲",
+                "website_url" : "",
+                "app_package" : "jp.coolfactory.android.huntress"
+            },
+            {
+                "app_name" : "Dark Hero Dash : Idle RPG",
+                "website_url" : "",
+                "app_package" : "com.bluepotiongames.dhd.google"
+            },
+            {
+                "app_name" : "트라하 인피니티",
+                "website_url" : "",
+                "app_package" : "com.moaigames.ti"
+            },
+            {
+                "app_name" : "Dark Disciples",
+                "website_url" : "",
+                "app_package" : "com.gtarcade.indrasoft.dd.us"
+            },
+            {
+                "app_name" : "트리 오브 세이비어 M",
+                "website_url" : "",
+                "app_package" : "com.imc.mtos"
+            },
+            {
+                "app_name" : "Champion Strike: Crypto Arena",
+                "website_url" : "",
+                "app_package" : "com.thg.pne.d"
+            },
+            {
+                "app_name" : "核芯：利希特",
+                "website_url" : "",
+                "app_package" : "com.tw99.no23.an"
+            },
+            {
+                "app_name" : "マイガールズ：禁断の経営恋愛シミュレーション",
+                "website_url" : "",
+                "app_package" : "com.sunice.mygirlsand"
+            },
+            {
+                "app_name" : "Botworld Adventure",
+                "website_url" : "",
+                "app_package" : "com.featherweightgames.fx"
+            },
+            {
+                "app_name" : "D-MEN",
+                "website_url" : "",
+                "app_package" : "com.shanggame.shtm"
+            },
+            {
+                "app_name" : "증권플러스 - 국민 증권앱",
+                "website_url" : "",
+                "app_package" : "com.dunamu.stockplus"
+            },
+            {
+                "app_name" : "아이돌리 프라이드 : 아이돌 육성 시뮬레이션 RPG",
+                "website_url" : "",
+                "app_package" : "com.neowiz.game.idolypride"
+            },
+            {
+                "app_name" : "進撃の巨人 Brave Order",
+                "website_url" : "",
+                "app_package" : "jp.enish.shingekibo"
+            },
+            {
+                "app_name" : "ゴーストスクランブル",
+                "website_url" : "",
+                "app_package" : "com.xflag.ghostscramble"
+            },
+            {
+                "app_name" : "Path to Nowhere",
+                "website_url" : "",
+                "app_package" : "com.zy.wqmt.global"
+            },
+            {
+                "app_name" : "Dead by Daylight Mobile",
+                "website_url" : "",
+                "app_package" : "com.netease.ma100asia"
+            },
+            {
+                "app_name" : "黎明死線M - Envoy",
+                "website_url" : "",
+                "app_package" : "com.netease.ma100tw"
+            },
+            {
+                "app_name" : "Valiant Force 2",
+                "website_url" : "",
+                "app_package" : "com.xiibraves.valiantforce2"
+            },
+            {
+                "app_name" : "Rise of Cyber",
+                "website_url" : "",
+                "app_package" : "net.pixelrabbit.fa"
+            },
+            {
+                "app_name" : "PlayPark StreetBallers",
+                "website_url" : "",
+                "app_package" : "com.playpark.streetballaos"
+            },
+            {
+                "app_name" : "N-INNOCENCE-",
+                "website_url" : "",
+                "app_package" : "com.asobimo.gpnninnocence.en"
+            },
+            {
+                "app_name" : "不良人3",
+                "website_url" : "",
+                "app_package" : "com.yunchang.mmo.blr3.zhtw"
+            },
+            {
+                "app_name" : "Rocket League Sideswipe",
+                "website_url" : "",
+                "app_package" : "com.Psyonix.RL2D"
+            },
+            {
+                "app_name" : "Arena Survivors Battle Royale",
+                "website_url" : "",
+                "app_package" : "com.ubisoft.survivors.wild.arena.battle.royale"
+            },
+            {
+                "app_name" : "タワーオブスカイ",
+                "website_url" : "",
+                "app_package" : "com.mixi.tower"
+            },
+            {
+                "app_name" : "코드기어스 반역의 를르슈　로스트 스토리즈",
+                "website_url" : "",
+                "app_package" : "com.komoe.lskrgp"
+            },
+            {
+                "app_name" : "れじぇくろ！ ～レジェンド・クローバー～",
+                "website_url" : "",
+                "app_package" : "com.dmm.games.legeclo"
+            },
+            {
+                "app_name" : "KartRider: Drift",
+                "website_url" : "",
+                "app_package" : "com.nexon.kartdrift"
+            },
+            {
+                "app_name" : "Revelation: Infinite Journey",
+                "website_url" : "",
+                "app_package" : "vng.games.revelation.mobile"
+            },
+            {
+                "app_name" : "Slime Legion",
+                "website_url" : "",
+                "app_package" : "com.hero.may.cry.adventure.game"
+            },
+            {
+                "app_name" : "神迹幻鏡-喚你入鏡",
+                "website_url" : "",
+                "app_package" : "com.icantw.xg"
+            },
+            {
+                "app_name" : "FarmVille 3: Животные на ферме",
+                "website_url" : "",
+                "app_package" : "com.zynga.farmville3"
+            },
+            {
+                "app_name" : "決戰陰陽師 妖怪皇帝與終焉的夜叉姬",
+                "website_url" : "",
+                "app_package" : "com.boltrend.ragnadortc"
+            },
+            {
+                "app_name" : "最強三国～黄金城の決戦",
+                "website_url" : "",
+                "app_package" : "com.guru.byfzjp.an"
+            },
+            {
+                "app_name" : "Code Geass 反叛的魯路修　失落物語",
+                "website_url" : "",
+                "app_package" : "com.komoe.lsgp"
+            },
+            {
+                "app_name" : "Last Fortress: Underground",
+                "website_url" : "",
+                "app_package" : "com.more.lastfortress.gp"
+            },
+            {
+                "app_name" : "피의 서약",
+                "website_url" : "",
+                "app_package" : "com.BegaGames.BloodPledge"
+            },
+            {
+                "app_name" : "Assassin's Creed Восстание",
+                "website_url" : "",
+                "app_package" : "com.ubisoft.accovenant"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Standoff 2",
+                "website_url" : "",
+                "app_package" : "com.axlebolt.standoff2"
+            },
+            {
+                "app_name" : "Coin Master",
+                "website_url" : "",
+                "app_package" : "com.moonactive.coinmaster"
+            },
+            {
+                "app_name" : "Город драконов (Dragon City)",
+                "website_url" : "",
+                "app_package" : "es.socialpoint.DragonCity"
+            },
+            {
+                "app_name" : "Free Fire MAX",
+                "website_url" : "",
+                "app_package" : "com.dts.freefiremax"
+            },
+            {
+                "app_name" : "Neural Cloud",
+                "website_url" : "",
+                "app_package" : "com.sunborn.neuralcloud.en"
+            },
+            {
+                "app_name" : "진 삼국무쌍 오버로드",
+                "website_url" : "",
+                "app_package" : "com.supernova.jinsamgugkr.gp"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Highrise: Жизнь Метавселенной",
+                "website_url" : "",
+                "app_package" : "com.pz.life.android"
+            },
+            {
+                "app_name" : "DRAGON BALL LEGENDS",
+                "website_url" : "",
+                "app_package" : "com.bandainamcoent.dblegends_ww"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Garena Liên Quân Mobile",
+                "website_url" : "",
+                "app_package" : "com.garena.game.kgvn"
+            },
+            {
+                "app_name" : "Thánh Địa AFK",
+                "website_url" : "",
+                "app_package" : "com.hgame.gp.vn"
+            },
+            {
+                "app_name" : "ニューラルクラウド",
+                "website_url" : "",
+                "app_package" : "com.sunborn.neuralcloud.jp"
+            },
+            {
+                "app_name" : "雲圖計劃",
+                "website_url" : "",
+                "app_package" : "com.sunborn.neuralcloud.tw"
+            },
+            {
+                "app_name" : "뉴럴 클라우드",
+                "website_url" : "",
+                "app_package" : "com.sunborn.neuralcloud.kr"
+            },
+            {
+                "app_name" : "きらめきパラダイス",
+                "website_url" : "",
+                "app_package" : "com.archosaur.jp.yslzm.gp"
+            },
+            {
+                "app_name" : "SnackVideo",
+                "website_url" : "",
+                "app_package" : "com.kwai.bulldog"
+            },
+            {
+                "app_name" : "奇珍物語",
+                "website_url" : "",
+                "app_package" : "com.yolo.relicsstory"
+            },
+            {
+                "app_name" : "Life Makeover",
+                "website_url" : "",
+                "app_package" : "com.archosaur.seareal.yslzm.gp"
+            },
+            {
+                "app_name" : "凌雲諾-心懷凌雲志，執筆辨是非",
+                "website_url" : "",
+                "app_package" : "com.gf.p2ptwtw.hwyad.google"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "艾塔紀元",
+                "website_url" : "",
+                "app_package" : "com.komoe.etechronicle"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.tencent.tmgp.supercell.clashofclans"
+            },
+            {
+                "app_name" : "卡利茲傳說",
+                "website_url" : "",
+                "app_package" : "com.gamebeans.gp.lzgwy"
+            },
+            {
+                "app_name" : "精靈M : 無盡冒險",
+                "website_url" : "",
+                "app_package" : "com.fowgames.pristontalemtw"
+            },
+            {
+                "app_name" : "怪物彈珠 - RPG手機遊戲",
+                "website_url" : "",
+                "app_package" : "jp.co.mixi.monsterstrikeTW"
+            },
+            {
+                "app_name" : "モンスターストライク",
+                "website_url" : "",
+                "app_package" : "jp.co.mixi.monsterstrike"
+            },
+            {
+                "app_name" : "Bots 'n Bolts",
+                "website_url" : "",
+                "app_package" : "org.pandcorps.botsnbolts"
+            },
+            {
+                "app_name" : "Super Baseball League",
+                "website_url" : "",
+                "app_package" : "com.haegin.superbaseballleague"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "블레스 이터널",
+                "website_url" : "",
+                "app_package" : "com.longtukorea.blesseternalgg"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "DragonMaster - Metaverse game",
+                "website_url" : "",
+                "app_package" : "com.magichat.dragonmaster"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Devil Hunter Idle",
+                "website_url" : "",
+                "app_package" : "com.mobirix.mbdh"
+            },
+            {
+                "app_name" : "Call of Duty®: Mobile - Garena",
+                "website_url" : "",
+                "app_package" : "com.garena.game.codm"
+            },
+            {
+                "app_name" : "콜 오브 듀티: 모바일",
+                "website_url" : "",
+                "app_package" : "com.tencent.tmgp.kr.codm"
+            },
+            {
+                "app_name" : "Call of Duty: Mobile VN",
+                "website_url" : "",
+                "app_package" : "com.vng.codmvn"
+            },
+            {
+                "app_name" : "Call of Duty Mobile Сезон 4",
+                "website_url" : "",
+                "app_package" : "com.activision.callofduty.shooter"
+            },
+            {
+                "app_name" : "Play Together",
+                "website_url" : "",
+                "app_package" : "com.haegin.playtogether"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Stormshot: Остров приключений",
+                "website_url" : "",
+                "app_package" : "com.sivona.stormshot.e"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "EVE Echoes",
+                "website_url" : "",
+                "app_package" : "com.netease.eve.en"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "TRAHA Global",
+                "website_url" : "",
+                "app_package" : "com.moaigames.tworld"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Dead by Daylight Mobile",
+                "website_url" : "",
+                "app_package" : "com.netease.dbdena"
+            },
+            {
+                "app_name" : "王牌競速",
+                "website_url" : "",
+                "app_package" : "com.netease.racerhmt"
+            },
+            {
+                "app_name" : "ラブライブ！スクールアイドルフェスティバル2（スクフェス2）",
+                "website_url" : "",
+                "app_package" : "com.bushiroad.lovelive.schoolidolfestival2"
+            },
+            {
+                "app_name" : "Yeager: Hunter Legend",
+                "website_url" : "",
+                "app_package" : "com.igg.android.yeager"
+            },
+            {
+                "app_name" : "Dragon Cliff",
+                "website_url" : "",
+                "app_package" : "com.cis.dragonclifff.googleplay"
+            },
+            {
+                "app_name" : "隨機骰子：擲擲骰 (Randomdice)",
+                "website_url" : "",
+                "app_package" : "com.percent.aos.randomdicechess"
+            },
+            {
+                "app_name" : "Meta World: My City",
+                "website_url" : "",
+                "app_package" : "com.netmarble.metaworld"
+            },
+            {
+                "app_name" : "Hover League",
+                "website_url" : "",
+                "app_package" : "com.wildsparkgames.hoverleague"
+            },
+            {
+                "app_name" : "鋼の錬金術師 MOBILE",
+                "website_url" : "",
+                "app_package" : "com.square_enix.android_googleplay.FullmetalAlchemistMobilejp"
+            },
+            {
+                "app_name" : "Dumb Ways to Die 4",
+                "website_url" : "",
+                "app_package" : "au.com.metrotrains.dwtd4"
+            },
+            {
+                "app_name" : "유그드라 리버스",
+                "website_url" : "",
+                "app_package" : "com.gamepub.ygg.g"
+            },
+            {
+                "app_name" : "블랙클로버 모바일",
+                "website_url" : "",
+                "app_package" : "com.vic.bc.kr"
+            },
+            {
+                "app_name" : "ブラッククローバーモバイル 魔法帝への道 ブラクロモ",
+                "website_url" : "",
+                "app_package" : "com.vic.bc.jp"
+            },
+            {
+                "app_name" : "Dislyte－神世代ネオンシティ－",
+                "website_url" : "",
+                "app_package" : "com.farlightgames.xgame.gp.jp"
+            },
+            {
+                "app_name" : "MONOPOLY GO!",
+                "website_url" : "",
+                "app_package" : "com.scopely.monopolygo"
+            },
+            {
+                "app_name" : "眾神派對",
+                "website_url" : "",
+                "app_package" : "com.farlightgames.xgame.gp.tw"
+            },
+            {
+                "app_name" : "Ragnarok Origin Global",
+                "website_url" : "",
+                "app_package" : "com.gravity.roo.sea"
+            },
+            {
+                "app_name" : "Merge Survival : Wasteland",
+                "website_url" : "",
+                "app_package" : "com.stickyhands.mergesurvival"
+            },
+            {
+                "app_name" : "404 GAME RE:SET -錯誤遊戲 Re:set-",
+                "website_url" : "",
+                "app_package" : "com.sega.ErrorGameReset.eas"
+            },
+            {
+                "app_name" : "404 GAME RE:SET ProloguE -序章-",
+                "website_url" : "",
+                "app_package" : "com.sega.ErrorGameResetPrologue.eas"
+            },
+            {
+                "app_name" : "Crafting and Building",
+                "website_url" : "",
+                "app_package" : "com.mmircil.cnb2"
+            },
+            {
+                "app_name" : "幻夢江湖 - 家園養成MMORPG",
+                "website_url" : "",
+                "app_package" : "com.jwgp.jianghu"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.sgra.dragon"
+            },
+            {
+                "app_name" : "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール",
+                "website_url" : "",
+                "app_package" : "com.square_enix.dqxtools"
+            },
+            {
+                "app_name" : "アーサーの伝説-Excalibur-",
+                "website_url" : "",
+                "app_package" : "com.xlegend.honorofheirs.jp"
+            },
+            {
+                "app_name" : "Honor of Heirs",
+                "website_url" : "",
+                "app_package" : "com.honorofheir.global"
+            },
+            {
+                "app_name" : "PROJECT XENO",
+                "website_url" : "",
+                "app_package" : "com.epochstudio.xeno"
+            },
+            {
+                "app_name" : "Abyss - Roguelike ARPG",
+                "website_url" : "",
+                "app_package" : "com.titans.abyss"
+            },
+            {
+                "app_name" : "天竺鼠農場",
+                "website_url" : "",
+                "app_package" : "com.LittleHand.PuiPui"
+            },
+            {
+                "app_name" : "Peglin - A Pachinko Roguelike",
+                "website_url" : "",
+                "app_package" : "com.RedNexusGamesInc.Peglin"
+            },
+            {
+                "app_name" : "Ace Racer",
+                "website_url" : "",
+                "app_package" : "com.netease.racerna"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Arknights",
+                "website_url" : "",
+                "app_package" : "com.YoStarEN.Arknights"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "4",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "アークナイツ",
+                "website_url" : "",
+                "app_package" : "com.YoStarJP.Arknights"
+            },
+            {
+                "app_name" : "명일방주",
+                "website_url" : "",
+                "app_package" : "com.YoStarKR.Arknights"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "4",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "AIO Phone Booster",
+                "website_url" : "",
+                "app_package" : "com.happymod.apk"
+            },
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.upgadata.bzvirtual"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "戰國大戰M：SEGA正版授權",
+                "website_url" : "",
+                "app_package" : "com.herogame.gplay.sengokutaisen.mobilerpg.sega.tw"
+            },
+            {
+                "app_name" : "戦国再臨：大戦の覇者となれ",
+                "website_url" : "",
+                "app_package" : "com.herogame.gplay.sengokutaisen.mobile.rpg.sega"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "채티 - 채팅형 소설 읽기, 쓰기",
+                "website_url" : "",
+                "app_package" : "me.chatie"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "World Flipper",
+                "website_url" : "",
+                "app_package" : "com.kakaogames.wdfp"
+            },
+            {
+                "app_name" : "War Alliance: Heroes",
+                "website_url" : "",
+                "app_package" : "com.magnificgames.waralliance"
+            },
+            {
+                "app_name" : "まいにちコンパイルハート",
+                "website_url" : "",
+                "app_package" : "jp.co.ideaf.neptune.nepkamijigenapp"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Nougat64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "",
+                "website_url" : "",
+                "app_package" : "com.iclockworken.ysr"
+            },
+            {
+                "app_name" : "DRAGON QUEST TACT",
+                "website_url" : "",
+                "app_package" : "com.square_enix.android_googleplay.dqtactn"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Азартного стихийного мага",
+                "website_url" : "",
+                "app_package" : "com.doublethink.diceelementalist.gp"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "CATS: Crash Arena Turbo Stars",
+                "website_url" : "",
+                "app_package" : "com.zeptolab.cats.google"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Võ Lâm Quần Hiệp Truyện",
+                "website_url" : "",
+                "app_package" : "com.vn.jianghu"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "1",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "1",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "1",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "Bejeweled Blitz",
+                "website_url" : "",
+                "app_package" : "com.ea.BejeweledBlitz_na"
+            },
+            {
+                "app_name" : "Club Vegas: игры в казино",
+                "website_url" : "",
+                "app_package" : "com.bagelcode.slots1"
+            },
+            {
+                "app_name" : "Cash Billionaire - Slots Games",
+                "website_url" : "",
+                "app_package" : "com.bagelcode.slots3"
+            },
+            {
+                "app_name" : "白猫プロジェクト",
+                "website_url" : "",
+                "app_package" : "jp.colopl.wcat"
+            },
+            {
+                "app_name" : "MedarotS - Robot Battle RPG -",
+                "website_url" : "",
+                "app_package" : "jp.co.imagineer.medarots"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "12",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "12",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "app_name" : "白貓Project",
+                "website_url" : "",
+                "app_package" : "tw.sonet.wcp"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "8",
+                "android_image" : "Pie64"
+            },
+            {
+                "abi_value" : "4",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "8",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "8",
+                "android_image" : "Rvc64"
+            }
+        ]
+    },
+    {
+        "allowed_apps" : [
+            {
+                "website_url" : "",
+                "app_package" : "ALL"
+            }
+        ],
+        "supported_android_images" : [
+            {
+                "abi_value" : "5",
+                "android_image" : "Nougat32"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Nougat64"
+            },
+            {
+                "abi_value" : "15",
+                "android_image" : "Pie64"
+            }
+        ]
+    }
+]
